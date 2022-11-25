@@ -47,7 +47,7 @@
         >{{ noRecordError }}
       </small>
       <button
-        class="text-xs md:text-base text-white bg-indigo-700 rounded px-6 py-2 block mx-auto mt-3 md:mt-4 cursor-pointer hover:bg-indigo-800"
+        class="text-xs md:text-base text-white bg-indigo-700 rounded px-6 py-3 block mx-auto mt-3 md:mt-4 cursor-pointer hover:bg-indigo-800"
         @click="validateInput"
       >
         CHECK GRADES
