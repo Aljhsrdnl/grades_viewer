@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-8 mx-6 md:mx-12 lg:mx-24 pb-10">
+  <div class="mt-8 mx-6 md:mx-12 lg:mx-24 pb-10 h-screen">
     <div class="flex items-center mb-6">
       <div class="flex-grow"></div>
       <div
