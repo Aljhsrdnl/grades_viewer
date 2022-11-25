@@ -20,7 +20,7 @@
       <div class="relative mt-12 block mx-auto w-3/5 md:w-2/4">
         <input
           id="LRN"
-          type="text"
+          type="number"
           class="peer border-b py-1 transition-colors focus:border-b-2 border-slate-400 cursor-text focus:border-indigo-700 focus:outline-none text-sm md:text-base peer ease-in-out placeholder-transparent w-full"
           placeholder="s"
           v-model="lrn"
