@@ -1,4 +1,10 @@
 <template>
+  <nav class="px-6 md:px-12 lg:px-24 py-4 text-lg bg-white shadow">
+    <div class="flex items-center">
+      <img v-bind:src="require('../assets/logo.png')" class="w-12" />
+      <p class="text-indigo-600 text-lg font-semibold">Grades Viewer</p>
+    </div>
+  </nav>
   <div class="flex items-center justify-center h-screen mx-6 md:mx-12 lg:mx-24">
     <div class="">
       <p
