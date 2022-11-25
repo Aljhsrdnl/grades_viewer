@@ -101,6 +101,7 @@ export default {
         if (Object.keys(this.studentData).length === 0) {
           console.log(`does this work`);
           this.noRecord = true;
+          return;
         }
         //end of validation
         this.$router.push({
